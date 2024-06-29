@@ -19,7 +19,13 @@ This repository contains the clone of Gemini AI built with React.js.
 
 
 ## 💻 Demo
-Insert gif or link to demo
+<table>
+  <tr>
+    <td style="padding: 15px;">
+      <img src="src/assets/Gemini-demo.gif" alt="Demo GIF">
+    </td>
+  </tr>
+</table>
 <br><br>
 
 
